@@ -6,6 +6,7 @@ Proiect Spring Boot modular pentru gestionarea rezervărilor.
 
 - `booking-domain` - conține entitățile și clasele de model.
 - `booking-persistence` - gestionează persistenta datelor în baza de date.
+- `booking-service` - se ocupa de logica de business
 - `booking-web` - expune API-ul REST și interfața web.
 
 ## Autentificare
