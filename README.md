@@ -2,6 +2,11 @@
 
 Proiect Spring Boot modular pentru gestionarea rezervărilor.
 
+!!!Cont admin:
+email: admin@gmail.com
+parola: admin
+
+
 ## Structura proiectului
 
 - `booking-domain` - conține entitățile și clasele de model.
